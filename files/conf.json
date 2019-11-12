@@ -1,0 +1,11 @@
+{
+    "mysql": {
+        "host": "localhost",
+        "user": "root",
+        "passwd": "",
+        "db": "default"
+    },
+    "log": {
+        "level": "DEBUG"
+    }
+}

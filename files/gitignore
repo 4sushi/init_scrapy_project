@@ -1,0 +1,6 @@
+# Ignore
+.*
+*.pyc
+conf.json
+# Exception for file .gitignore
+!.gitignore
